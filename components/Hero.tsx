@@ -15,7 +15,7 @@ const Hero = () => {
         <div>
           <Head>
           <link rel="preconnect" href="https://fonts.googleapis.com"></link>
-<link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true"></link>
+
 <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet"></link>
           </Head>
     <div className="w-screen h-screen">
