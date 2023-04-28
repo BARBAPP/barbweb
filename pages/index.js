@@ -19,7 +19,7 @@ export default function Home() {
     <div className="">
      <Head>
       <title>BARB | BARB SALON SERVICES | SALON MANAGER</title>
-      <link rel="shortcut icon" type='image/png' href="https://www.linkpicture.com/q/favicon_27.png" />
+      
         <meta httpEquiv="content-language" content="en"></meta>
         <meta charSet="UTF-8"></meta>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
